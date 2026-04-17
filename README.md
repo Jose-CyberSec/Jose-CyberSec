@@ -2,15 +2,24 @@
 
 SOC Analyst Candidate | Security+ in Progress | Marine Corps Veteran
 
+---
+
 ## About Me
-I am actively building hands-on cybersecurity experience with a focus on network analysis, threat detection, and incident response. My background in the Marine Corps and law enforcement has strengthened my ability to assess risk, investigate issues, and operate effectively under pressure.
+I am actively building hands-on cybersecurity experience with a focus on threat detection, network analysis, and incident response.
+
+My background in the Marine Corps and law enforcement has strengthened my ability to assess risk, conduct investigations, and operate effectively under pressure. I am now applying these skills within cybersecurity, specifically in Security Operations Center (SOC) environments.
+
+---
 
 ## Current Focus
-- CompTIA Security+ preparation
-- SOC and blue team skill development
-- Hands-on labs in network analysis and threat detection
+- CompTIA Security+ Certification
+- SOC / Blue Team Skill Development
+- Network Analysis & Threat Detection
+- Building hands-on cybersecurity labs
 
-## Tools
+---
+
+## Tools & Technologies
 - Linux
 - Nmap
 - Wireshark
@@ -18,10 +27,21 @@ I am actively building hands-on cybersecurity experience with a focus on network
 - Splunk
 - Python
 
-## Featured Projects
-- Nmap Network Scan Lab
-- Wireshark Traffic Analysis Lab
-- Incident Response Lab
+---
+
+## Projects
+- Nmap Network Scan Lab (In Progress)
+- Wireshark Traffic Analysis (In Progress)
+- Incident Response Lab (In Progress)
+
+---
+
+## What I'm Building
+I am currently developing hands-on labs to simulate real-world cybersecurity scenarios, including:
+
+- Network reconnaissance and scanning
+- Packet capture and traffic analysis
+- Incident detection and reporting
 
 ## Connect
 [LinkedIn](https://www.linkedin.com/in/jose-cyber/)
