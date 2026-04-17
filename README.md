@@ -1,16 +1,28 @@
-## Hi there 👋
+**Jose-CyberSec/Jose-Cyb# Jose Garcia
 
-<!--
-**Jose-CyberSec/Jose-CyberSec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+SOC Analyst Candidate | Security+ in Progress | Marine Corps Veteran
 
-Here are some ideas to get you started:
+## About Me
+I am actively building hands-on cybersecurity experience with a focus on network analysis, threat detection, and incident response. My background in the Marine Corps and law enforcement has strengthened my ability to assess risk, investigate issues, and operate effectively under pressure.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Focus
+- CompTIA Security+ preparation
+- SOC and blue team skill development
+- Hands-on labs in network analysis and threat detection
+
+## Tools
+- Linux
+- Nmap
+- Wireshark
+- Metasploit
+- Splunk
+- Python
+
+## Featured Projects
+- Nmap Network Scan Lab
+- Wireshark Traffic Analysis Lab
+- Incident Response Lab
+
+## Connect
+[LinkedIn](https://www.linkedin.com/in/jose-cyber/)
+
