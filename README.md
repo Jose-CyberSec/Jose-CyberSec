@@ -1,4 +1,4 @@
-**Jose-CyberSec/Jose-Cyb# Jose Garcia
+# Jose Garcia
 
 SOC Analyst Candidate | Security+ in Progress | Marine Corps Veteran
 
