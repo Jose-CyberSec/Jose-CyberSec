@@ -1,6 +1,6 @@
 # Jose Garcia
 
-SOC Analyst Candidate | Security+ in Progress | Marine Corps Veteran
+SOC Analyst Candidate | Security+ | Marine Corps Veteran
 
 ---
 
@@ -12,7 +12,6 @@ My background in the Marine Corps and law enforcement has strengthened my abilit
 ---
 
 ## Current Focus
-- CompTIA Security+ Certification
 - SOC / Blue Team Skill Development
 - Network Analysis & Threat Detection
 - Building hands-on cybersecurity labs
